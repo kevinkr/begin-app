@@ -67,7 +67,7 @@ export async function handler (req: object) {
       'content-type': 'text/javascript; charset=utf8',
       'cache-control': 'no-cache, no-store, must-revalidate, max-age=0, s-maxage=0'
     },
-    body: 'console.log("Hello world!")',
+    body: 'console.log("Hello world, what is up from your side?!")',
   }
 }
 */
